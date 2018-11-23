@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# hd2-eagle-import_+3V3
+# hd2-eagle-import:+3V3
 #
-DEF hd2-eagle-import_+3V3 #+3V3 0 40 Y Y 1 L P
+DEF hd2-eagle-import:+3V3 #+3V3 0 40 Y Y 1 L P
 F0 "#+3V3" 0 0 50 H I C CNN
-F1 "hd2-eagle-import_+3V3" -100 -200 59 V V L BNN
+F1 "hd2-eagle-import:+3V3" -100 -200 59 V V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -15,11 +15,11 @@ X +3V3 1 0 -100 100 U 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_+5V
+# hd2-eagle-import:+5V
 #
-DEF hd2-eagle-import_+5V #P+ 0 40 Y Y 1 L P
+DEF hd2-eagle-import:+5V #P+ 0 40 Y Y 1 L P
 F0 "#P+" 0 0 50 H I C CNN
-F1 "hd2-eagle-import_+5V" -100 -200 59 V V L BNN
+F1 "hd2-eagle-import:+5V" -100 -200 59 V V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -29,11 +29,11 @@ X +5V 1 0 -100 100 U 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_2764
+# hd2-eagle-import:2764
 #
-DEF ~hd2-eagle-import_2764 IC 0 40 Y Y 2 L N
+DEF ~hd2-eagle-import:2764 IC 0 40 Y Y 2 L N
 F0 "IC" -25 -25 59 H V L BNN
-F1 "hd2-eagle-import_2764" -400 -1100 59 H I L BNN
+F1 "hd2-eagle-import:2764" -400 -1100 59 H I L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -74,11 +74,11 @@ X N.C. 26 -600 -500 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_7404N
+# hd2-eagle-import:7404N
 #
-DEF ~hd2-eagle-import_7404N IC 0 40 Y Y 7 L N
+DEF ~hd2-eagle-import:7404N IC 0 40 Y Y 7 L N
 F0 "IC" -25 -25 59 H V L BNN
-F1 "hd2-eagle-import_7404N" 100 -200 59 H I L BNN
+F1 "hd2-eagle-import:7404N" 100 -200 59 H I L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -119,11 +119,11 @@ X GND 7 0 -400 100 U 50 0 7 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_74245N
+# hd2-eagle-import:74245N
 #
-DEF ~hd2-eagle-import_74245N IC 0 40 Y Y 2 L N
+DEF ~hd2-eagle-import:74245N IC 0 40 Y Y 2 L N
 F0 "IC" -25 -25 59 H V L BNN
-F1 "hd2-eagle-import_74245N" -300 -700 59 H I L BNN
+F1 "hd2-eagle-import:74245N" -300 -700 59 H I L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -156,11 +156,11 @@ X VCC 20 0 300 200 D 50 0 2 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_74595N
+# hd2-eagle-import:74595N
 #
-DEF ~hd2-eagle-import_74595N IC 0 40 Y Y 2 L N
+DEF ~hd2-eagle-import:74595N IC 0 40 Y Y 2 L N
 F0 "IC" -25 -25 59 H V L BNN
-F1 "hd2-eagle-import_74595N" -200 -700 59 H I L BNN
+F1 "hd2-eagle-import:74595N" -200 -700 59 H I L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -189,11 +189,11 @@ X GND 8 0 -400 100 U 50 0 2 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_ATF16V8BP3
+# hd2-eagle-import:ATF16V8BP3
 #
-DEF hd2-eagle-import_ATF16V8BP3 IC 0 40 Y Y 1 L N
+DEF hd2-eagle-import:ATF16V8BP3 IC 0 40 Y Y 1 L N
 F0 "IC" -300 750 59 H V L BNN
-F1 "hd2-eagle-import_ATF16V8BP3" -300 -800 59 H V L BNN
+F1 "hd2-eagle-import:ATF16V8BP3" -300 -800 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -224,11 +224,11 @@ X I8 9 -400 -400 100 R 50 50 1 0 I
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_BS170
+# hd2-eagle-import:BS170
 #
-DEF hd2-eagle-import_BS170 Q 0 40 Y Y 1 L N
+DEF hd2-eagle-import:BS170 Q 0 40 Y Y 1 L N
 F0 "Q" 200 100 59 H V L BNN
-F1 "hd2-eagle-import_BS170" 200 0 59 H V L BNN
+F1 "hd2-eagle-import:BS170" 200 0 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -260,11 +260,11 @@ X S S 100 -200 100 U 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_C-EU050-024X044
+# hd2-eagle-import:C-EU050-024X044
 #
-DEF hd2-eagle-import_C-EU050-024X044 C 0 40 Y Y 1 L N
+DEF hd2-eagle-import:C-EU050-024X044 C 0 40 Y Y 1 L N
 F0 "C" 60 15 59 H V L BNN
-F1 "hd2-eagle-import_C-EU050-024X044" 60 -185 59 H V L BNN
+F1 "hd2-eagle-import:C-EU050-024X044" 60 -185 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -277,11 +277,11 @@ X 2 2 0 -200 100 U 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_CPOL-EUE2-4
+# hd2-eagle-import:CPOL-EUE2-4
 #
-DEF hd2-eagle-import_CPOL-EUE2-4 C 0 40 Y Y 1 L N
+DEF hd2-eagle-import:CPOL-EUE2-4 C 0 40 Y Y 1 L N
 F0 "C" 45 19 59 H V L BNN
-F1 "hd2-eagle-import_CPOL-EUE2-4" 45 -181 59 H V L BNN
+F1 "hd2-eagle-import:CPOL-EUE2-4" 45 -181 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -296,11 +296,11 @@ X - - 0 -200 100 U 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_CR2032H
+# hd2-eagle-import:CR2032H
 #
-DEF hd2-eagle-import_CR2032H B 0 40 Y Y 1 L N
+DEF hd2-eagle-import:CR2032H B 0 40 Y Y 1 L N
 F0 "B" -100 125 59 H V L BNN
-F1 "hd2-eagle-import_CR2032H" -100 -200 59 H V L BNN
+F1 "hd2-eagle-import:CR2032H" -100 -200 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -318,11 +318,11 @@ X - - -200 0 100 R 50 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_CRYSTALHC49U-V
+# hd2-eagle-import:CRYSTALHC49U-V
 #
-DEF hd2-eagle-import_CRYSTALHC49U-V Q 0 40 Y Y 1 L N
+DEF hd2-eagle-import:CRYSTALHC49U-V Q 0 40 Y Y 1 L N
 F0 "Q" 100 40 59 H V L BNN
-F1 "hd2-eagle-import_CRYSTALHC49U-V" 100 -100 59 H V L BNN
+F1 "hd2-eagle-import:CRYSTALHC49U-V" 100 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -341,11 +341,11 @@ X 2 2 100 0 0 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_CRYSTALTC26V
+# hd2-eagle-import:CRYSTALTC26V
 #
-DEF hd2-eagle-import_CRYSTALTC26V Q 0 40 Y Y 1 L N
+DEF hd2-eagle-import:CRYSTALTC26V Q 0 40 Y Y 1 L N
 F0 "Q" 100 40 59 H V L BNN
-F1 "hd2-eagle-import_CRYSTALTC26V" 100 -100 59 H V L BNN
+F1 "hd2-eagle-import:CRYSTALTC26V" 100 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -364,11 +364,11 @@ X 2 2 100 0 0 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_DINA4_L
+# hd2-eagle-import:DINA4_L
 #
-DEF ~hd2-eagle-import_DINA4_L #FRAME 0 40 Y Y 2 L N
+DEF ~hd2-eagle-import:DINA4_L #FRAME 0 40 Y Y 2 L N
 F0 "#FRAME" 0 0 50 H I C CNN
-F1 "hd2-eagle-import_DINA4_L" 0 0 50 H I C CNN
+F1 "hd2-eagle-import:DINA4_L" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -402,11 +402,11 @@ P 2 2 0 0 4000 1400 4000 900 N
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_DS1307
+# hd2-eagle-import:DS1307
 #
-DEF ~hd2-eagle-import_DS1307 IC 0 40 Y Y 1 L N
+DEF ~hd2-eagle-import:DS1307 IC 0 40 Y Y 1 L N
 F0 "IC" -500 -500 59 H V L BNN
-F1 "hd2-eagle-import_DS1307" 0 0 50 H I C CNN
+F1 "hd2-eagle-import:DS1307" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -426,11 +426,11 @@ X VCC 8 300 700 200 D 50 50 1 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_GND
+# hd2-eagle-import:GND
 #
-DEF hd2-eagle-import_GND #GND 0 40 Y Y 1 L P
+DEF hd2-eagle-import:GND #GND 0 40 Y Y 1 L P
 F0 "#GND" 0 0 50 H I C CNN
-F1 "hd2-eagle-import_GND" -100 -100 59 H V L BNN
+F1 "hd2-eagle-import:GND" -100 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -439,11 +439,11 @@ X GND 1 0 100 100 D 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_LED3MM
+# hd2-eagle-import:LED3MM
 #
-DEF hd2-eagle-import_LED3MM LED 0 40 Y Y 1 L N
+DEF hd2-eagle-import:LED3MM LED 0 40 Y Y 1 L N
 F0 "LED" 140 -180 59 V V L BNN
-F1 "hd2-eagle-import_LED3MM" 225 -180 59 V V L BNN
+F1 "hd2-eagle-import:LED3MM" 225 -180 59 V V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -463,11 +463,11 @@ X C K 0 -200 100 U 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_LP2950Z
+# hd2-eagle-import:LP2950Z
 #
-DEF hd2-eagle-import_LP2950Z IC 0 40 Y Y 1 L N
+DEF hd2-eagle-import:LP2950Z IC 0 40 Y Y 1 L N
 F0 "IC" -200 250 59 H V L BNN
-F1 "hd2-eagle-import_LP2950Z" 100 -300 59 H V L BNN
+F1 "hd2-eagle-import:LP2950Z" 100 -300 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -482,11 +482,11 @@ X I 3 -300 100 100 R 50 50 1 0 I
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_M09?SHP
+# hd2-eagle-import:M09?SHP
 #
-DEF ~hd2-eagle-import_M09?SHP X 0 40 Y Y 9 L N
+DEF ~hd2-eagle-import:M09?SHP X 0 40 Y Y 9 L N
 F0 "X" 75 -30 59 H V L BNN
-F1 "hd2-eagle-import_M09?SHP" -105 55 59 H I L BNN
+F1 "hd2-eagle-import:M09?SHP" -105 55 59 H I L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -511,11 +511,11 @@ X M 9 -100 0 100 R 0 0 9 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_MA05-1
+# hd2-eagle-import:MA05-1
 #
-DEF hd2-eagle-import_MA05-1 SV 0 40 Y Y 1 L N
+DEF hd2-eagle-import:MA05-1 SV 0 40 Y Y 1 L N
 F0 "SV" -50 330 59 H V L BNN
-F1 "hd2-eagle-import_MA05-1" -50 -400 59 H V L BNN
+F1 "hd2-eagle-import:MA05-1" -50 -400 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -536,11 +536,11 @@ X 5 5 300 200 200 L 50 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_MAX232PTH
+# hd2-eagle-import:MAX232PTH
 #
-DEF hd2-eagle-import_MAX232PTH U 0 40 Y Y 1 L N
+DEF hd2-eagle-import:MAX232PTH U 0 40 Y Y 1 L N
 F0 "U" -400 625 59 H V L BNN
-F1 "hd2-eagle-import_MAX232PTH" -400 -800 59 H V L BNN
+F1 "hd2-eagle-import:MAX232PTH" -400 -800 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -567,11 +567,11 @@ X R2OUT 9 -600 -600 200 R 50 50 1 0 O
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_MICROSD-9P
+# hd2-eagle-import:MICROSD-9P
 #
-DEF hd2-eagle-import_MICROSD-9P J 0 40 Y Y 1 L N
+DEF hd2-eagle-import:MICROSD-9P J 0 40 Y Y 1 L N
 F0 "J" -480 480 59 H V L BNN
-F1 "hd2-eagle-import_MICROSD-9P" -490 -480 59 H V L BNN
+F1 "hd2-eagle-import:MICROSD-9P" -490 -480 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -601,11 +601,11 @@ X SHIELD SHL@3 400 -600 200 U 0 50 1 0 W
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_PIC18F4680
+# hd2-eagle-import:PIC18F4680
 #
-DEF hd2-eagle-import_PIC18F4680 IC 0 40 Y Y 1 L N
+DEF hd2-eagle-import:PIC18F4680 IC 0 40 Y Y 1 L N
 F0 "IC" -1400 2050 42 H V L BNN
-F1 "hd2-eagle-import_PIC18F4680" -1300 -2100 42 H V L BNN
+F1 "hd2-eagle-import:PIC18F4680" -1300 -2100 42 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -656,11 +656,11 @@ X RE1/~WR/~AN6/C1OUT 9 -1600 300 200 R 50 50 1 0 U
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_PINHD-2X17_90
+# hd2-eagle-import:PINHD-2X17_90
 #
-DEF hd2-eagle-import_PINHD-2X17_90 JP 0 40 Y Y 1 L N
+DEF hd2-eagle-import:PINHD-2X17_90 JP 0 40 Y Y 1 L N
 F0 "JP" -250 925 59 H V L BNN
-F1 "hd2-eagle-import_PINHD-2X17_90" -250 -1000 59 H V L BNN
+F1 "hd2-eagle-import:PINHD-2X17_90" -250 -1000 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -705,11 +705,11 @@ X 9 9 -100 400 100 R 50 0 1 0 P I
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_PTR1PAD1-10
+# hd2-eagle-import:PTR1PAD1-10
 #
-DEF hd2-eagle-import_PTR1PAD1-10 TP 0 40 Y Y 1 L N
+DEF hd2-eagle-import:PTR1PAD1-10 TP 0 40 Y Y 1 L N
 F0 "TP" -40 -250 59 V V L BNN
-F1 "hd2-eagle-import_PTR1PAD1-10" 50 -100 59 H V L BNN
+F1 "hd2-eagle-import:PTR1PAD1-10" 50 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -737,11 +737,11 @@ X TP TP 0 100 100 D 0 0 1 0 I
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_R-EU_0207_10
+# hd2-eagle-import:R-EU_0207_10
 #
-DEF hd2-eagle-import_R-EU_0207_10 R 0 40 Y Y 1 L N
+DEF hd2-eagle-import:R-EU_0207_10 R 0 40 Y Y 1 L N
 F0 "R" -150 59 59 H V L BNN
-F1 "hd2-eagle-import_R-EU_0207_10" -150 -130 59 H V L BNN
+F1 "hd2-eagle-import:R-EU_0207_10" -150 -130 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -754,11 +754,11 @@ X 2 2 200 0 100 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# hd2-eagle-import_SDMMC06132
+# hd2-eagle-import:SDMMC06132
 #
-DEF hd2-eagle-import_SDMMC06132 J 0 40 Y Y 1 L N
+DEF hd2-eagle-import:SDMMC06132 J 0 40 Y Y 1 L N
 F0 "J" -390 950 59 H V L BNN
-F1 "hd2-eagle-import_SDMMC06132" -290 -1000 59 H V L BNN
+F1 "hd2-eagle-import:SDMMC06132" -290 -1000 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -785,11 +785,11 @@ X WRITE_PROTECT WP -500 600 100 R 50 50 1 0 P
 ENDDRAW
 ENDDEF
 #
-# power_PWR_FLAG
+# power:PWR_FLAG
 #
-DEF power_PWR_FLAG #FLG 0 0 N N 1 F P
+DEF power:PWR_FLAG #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "power_PWR_FLAG" 0 150 50 H V C CNN
+F1 "power:PWR_FLAG" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

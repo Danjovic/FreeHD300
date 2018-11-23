@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:hd2-cache
-EELAYER 29 0
+EELAYER 26 0
 EELAYER END
 $Descr User 12095 8387
 encoding utf-8
